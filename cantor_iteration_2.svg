@@ -1,0 +1,19 @@
+<svg height="729" viewBox="0 0 729 729" width="729" xmlns="http://www.w3.org/2000/svg">
+<rect fill="white" height="729" width="729" x="0" y="0"/>
+<rect fill="purple" height="81" stroke="none" width="81" x="0" y="0"/>
+<rect fill="purple" height="81" stroke="none" width="81" x="162" y="0"/>
+<rect fill="purple" height="81" stroke="none" width="81" x="0" y="162"/>
+<rect fill="purple" height="81" stroke="none" width="81" x="162" y="162"/>
+<rect fill="purple" height="81" stroke="none" width="81" x="486" y="0"/>
+<rect fill="purple" height="81" stroke="none" width="81" x="648" y="0"/>
+<rect fill="purple" height="81" stroke="none" width="81" x="486" y="162"/>
+<rect fill="purple" height="81" stroke="none" width="81" x="648" y="162"/>
+<rect fill="purple" height="81" stroke="none" width="81" x="0" y="486"/>
+<rect fill="purple" height="81" stroke="none" width="81" x="162" y="486"/>
+<rect fill="purple" height="81" stroke="none" width="81" x="0" y="648"/>
+<rect fill="purple" height="81" stroke="none" width="81" x="162" y="648"/>
+<rect fill="purple" height="81" stroke="none" width="81" x="486" y="486"/>
+<rect fill="purple" height="81" stroke="none" width="81" x="648" y="486"/>
+<rect fill="purple" height="81" stroke="none" width="81" x="486" y="648"/>
+<rect fill="purple" height="81" stroke="none" width="81" x="648" y="648"/>
+</svg>

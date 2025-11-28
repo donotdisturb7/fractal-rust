@@ -1,3 +1,4 @@
+// partie 1
 use svg::Document;
 use svg::node::element::Rectangle;
 use std::env;

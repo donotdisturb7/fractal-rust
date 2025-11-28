@@ -8,6 +8,10 @@ name = "cantor"
 path = "src/main.rs"
 
 [[bin]]
+name = "cantor_gif"
+path = "src/cantor_gif.rs"
+
+[[bin]]
 name = "zoom"
 path = "src/zoom_rectangle_gif.rs"
 
