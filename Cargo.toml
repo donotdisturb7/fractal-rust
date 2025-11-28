@@ -3,6 +3,22 @@ name = "TP5"
 version = "0.1.0"
 edition = "2024"
 
+[[bin]]
+name = "cantor"
+path = "src/main.rs"
+
+[[bin]]
+name = "zoom"
+path = "src/zoom_rectangle_gif.rs"
+
+[[bin]]
+name = "egui_demo"
+path = "src/dessiner_rectangle_egui.rs"
+
 [dependencies]
 arg = "0.4.1"
 svg = "0.18.0"
+gif = "0.13"
+eframe = "0.30"
+egui = "0.30"
+env_logger = "0.11"
